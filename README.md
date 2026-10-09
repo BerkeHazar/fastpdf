@@ -49,9 +49,8 @@ Açık kaynak · ücretsiz · kurulum yok · zayıf bilgisayarlar için optimize
 ## GitHub Pages'te Yayınlama
 
 1. Repoyu GitHub'a push et (public).
-2. **Settings → Pages** → *Deploy from a branch* → `main` / `(root)` → Save.
-3. Repo kökündeki `CNAME` (`fastpdf.js.org`) custom domain'i kurar; **Enforce HTTPS** açılır.
-4. `js/` klasörü otomatik servis edilir — ek ayar gerekmez.
+2. **Settings → Pages** → _Deploy from a branch_ → `main` / `(root)` → Save.
+3. `js/` klasörü otomatik servis edilir — ek ayar gerekmez.
 
 ## Geliştirme
 
